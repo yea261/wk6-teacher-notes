@@ -1,0 +1,12 @@
+.DS_S*
+__pycache__/
+*_utils.py
+*_utils.py.*
+*.py.*
+*.pyc
+*.pyc.*
+data/spotify*.csv
+data/wine*.csv
+data/ansur*.json
+*.csv.*
+*.json.*
